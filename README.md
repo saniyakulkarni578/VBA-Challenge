@@ -9,7 +9,8 @@ Inside the new repository that you just created, add any VBA files that you use 
 Files
 Download the following files to help you get started:
 
-Module 2 Challenge filesLinks to an external site.
+[Module 2 Challenge]([url](https://static.bc-edx.com/data/dl-1-2/m2/lms/starter/Starter_Code.zip))
+
 
 Instructions
 Create a script that loops through all the stocks for each quarter and outputs the following information:
